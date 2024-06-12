@@ -12,6 +12,8 @@ Conecte-se a qualquer site com final .br e colete todos os dados!
 
 [*] python3 build-proot.py
 
+[*] python3 whois.py
+
 
 # Comandos se estiver no termux:
 [*] git clone https://github.com/lucas-dk/Whois
@@ -19,6 +21,8 @@ Conecte-se a qualquer site com final .br e colete todos os dados!
 [*] cd Whois
 
 [*] pip install -r requirements.txt:
+
+[*] python3 whois.py
 
 # Script executado:
 
