@@ -1,5 +1,5 @@
 # Rode essa build somente se você estiver no proot ubuntu no termux
-# caso contrário, rode a outra build
+# caso contrário, rode o pip install -r requirements.txt
 
 import sys
 import os
