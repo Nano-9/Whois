@@ -15,7 +15,9 @@ Conecte-se a qualquer site com final .br e colete todos os dados!
 
 # Comandos se estiver no termux:
 [*] git clone https://github.com/lucas-dk/Whois
+
 [*] cd Whois
+
 [*] pip install -r requirements.txt:
 
 # Script executado:
