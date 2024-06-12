@@ -9,3 +9,4 @@ if sistema_operacional == "linux":
         os.system("apt install python3-bs4")
 else:
         pass
+#end
