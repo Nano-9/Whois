@@ -1,6 +1,6 @@
-# script criado por Lucas Walker                        |\
-#instagram: @lbss_x                                     |   >>> Lucas Walker
-#Dúvidas entre em contato                               |/
+# script criado por Nano-9                              |\
+# Telegram: https://t.me/rdzin9                         |   >>> Nano-9
+# Dúvidas entre em contato                              |/
 
 import os
 import sys
