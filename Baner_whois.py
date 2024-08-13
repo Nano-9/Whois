@@ -19,9 +19,9 @@ def MudarBaner(num=random_numbers):
 |__/|__/_/ /_/\____/___/____/
 
                  V. 1.0
-                [*] Developed by: Lucas-Dk
+                [*] Developed by: Nano
                 [*] Domínios de Sites
-                [*] Meu Insta: lbss_x
+                [*] Telegram: https://t.me/rdzin9
 
 
              \033[m""")
@@ -38,9 +38,9 @@ def MudarBaner(num=random_numbers):
 |__/|__/_/ /_/\____/___/____/
 
                 V. 1.0
-                [*] Developed by: Lucas-Dk
+                [*] Developed by: Nano
                 [*] Domínios de Sites
-                [*] Meu Insta: lbss_x
+                [*] Telegram: https://t.me/rdzin9
 
 
              \033[m""")
@@ -57,9 +57,9 @@ def MudarBaner(num=random_numbers):
 |__/|__/_/ /_/\____/___/____/
 
                 V. 1.0
-                [*] Developed by: Lucas-Dk
+                [*] Developed by: Nano
                 [*] Domínios de Sites
-                [*] Meu Insta: lbss_x
+                [*] Telegram: https://t.me/rdzin9
 
 
              \033[m""")
@@ -76,9 +76,9 @@ def MudarBaner(num=random_numbers):
 |__/|__/_/ /_/\____/___/____/
 
                 V. 1.0
-                [*] Developed by: Lucas-Dk
+                [*] Developed by: Nano
                 [*] Domínios de Sites
-                [*] Meu Insta: lbss_x
+                [*] Telegram: https://t.me/rdzin9
 
 
              \033[m""")
